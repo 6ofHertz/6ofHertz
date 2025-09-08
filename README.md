@@ -1,5 +1,35 @@
 # 💫 About Me:
-I'm an enthusiastic and detail-oriented IT professional with a background in Computer Science, specializing in cloud computing, cybersecurity, and networking. With hands-on experience in IT support, system administration, and ethical hacking, I enjoy solving technical challenges and improving system performance. I’ve participated in programs like AWS re/Start and the Power Learn Project, and I’m currently honing my full-stack development skills using the MERN stack. Passionate about continuous learning, I thrive in collaborative environments where I can contribute to innovative tech solutions and meaningful digital projects.<br><br>
+ 
+I’m an enthusiastic and detail-oriented **IT professional** with a strong foundation in **Computer Science**, specializing in **Cybersecurity** and **Networking**.  
+<br>
+
+## 💻 Hands-On Experience  
+- 🔐 **Cybersecurity**: Ethical Hacking, Penetration Testing, Digital Forensics  
+- 🌐 **Networking & System Administration**  
+- 🖥️ **IT Support & Troubleshooting**  
+- ⚙️ **Web Development (MERN Stack)**  
+<br>
+
+## 🎓 Programs & Bootcamps  
+- 📌 **Cybersecurity Graduate Bootcamp** *(current track)*  
+- ☁️ **AWS re/Start** – Cloud Fundamentals *(supporting skill)*  
+- 💡 **Power Learn Project (PLP)** – Software Development  
+<br>
+
+## 🌱 Currently Focusing On  
+- Deepening expertise in **cybersecurity tools & practices**  
+- Advancing in **penetration testing & digital forensics**  
+- Strengthening **secure web application development**  
+<br>
+
+## 🤝 I Thrive In Environments Where I Can  
+- ✅ Solve **complex security challenges**  
+- 🔧 Contribute to **resilient and innovative digital solutions**  
+- 📚 Keep **learning and sharing knowledge** with the tech community  
+<br>
+
+## ⚡ Interests  
+**Cybersecurity | Digital Forensics | Ethical Hacking | Cloud Security | Web Development | Tech Education**  <br><br>
 
 
 ## 🌐 Socials:
